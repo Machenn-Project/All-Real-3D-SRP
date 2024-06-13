@@ -1,5 +1,35 @@
 {
   "dependencies": {
+    "com.machenn.allreal.io": {
+      "version": "https://github.com/Machenn-Project/AllReal.io.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.package-manager-ui": "2.1.2",
+        "com.unity.textmeshpro": "2.0.1"
+      },
+      "hash": "6885acbbf2d4b2caa4f548ba997a6ad0a749b0c0"
+    },
+    "com.machenn.allrealunityscripts": {
+      "version": "https://github.com/Machenn-Project/AllRealUnityScripts.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.package-manager-ui": "2.1.2",
+        "com.unity.textmeshpro": "2.0.1"
+      },
+      "hash": "ff5a40cc214c9c09e8206c8f6c8e6702d7f7189e"
+    },
+    "com.machenn.allrealunityvr": {
+      "version": "https://github.com/Machenn-Project/AllRealUnityVR.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.package-manager-ui": "2.1.2",
+        "com.unity.textmeshpro": "2.0.1"
+      },
+      "hash": "6af15e10e59bcd39e0c028fa7c767a89bc7e75b0"
+    },
     "com.machenn.unityautosave": {
       "version": "https://github.com/Machenn-Project/UnityAutoSave.git",
       "depth": 0,

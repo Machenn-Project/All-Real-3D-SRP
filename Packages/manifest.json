@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "com.machenn.allreal.io": "https://github.com/Machenn-Project/AllReal.io.git",
+    "com.machenn.allrealunityscripts": "https://github.com/Machenn-Project/AllRealUnityScripts.git",
+    "com.machenn.allrealunityvr": "https://github.com/Machenn-Project/AllRealUnityVR.git",
     "com.machenn.unityautosave": "https://github.com/Machenn-Project/UnityAutoSave.git",
     "com.machenn.unityfoldericon": "https://github.com/Machenn-Project/UnityFolderIcon.git",
     "com.unity.cloud.gltfast": "6.6.0",
